@@ -9,3 +9,6 @@ Around the world, vegetation cover functioning as shelter to wildlife, clean wat
 
   
 ![system](https://user-images.githubusercontent.com/47058810/52541622-35178400-2da8-11e9-9f96-d78743e17438.jpg)
+
+
+![zonguldak ndvi](https://user-images.githubusercontent.com/47058810/52541651-a48d7380-2da8-11e9-8610-13c0f9c9e1b6.jpg)
