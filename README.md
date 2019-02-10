@@ -9,3 +9,5 @@ Around the world, vegetation cover functioning as shelter to wildlife, clean wat
 
  
   
+Automated-prediction-system-for-vegetation-cover-based-on-MODIS--NDVI-satellite-data-and-neural-netw/system.jpg
+      
