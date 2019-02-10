@@ -1,6 +1,6 @@
 # Sohaib-K.-M.-Abujayyab
 
-#Automated prediction system for vegetation cover based on MODIS- NDVI satellite data and neural networks
+# Automated prediction system for vegetation cover based on MODIS- NDVI satellite data and neural networks
 
 
   
